@@ -27,7 +27,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div>Copyright © 2026 YourBrand. All rights reserved.</div>
+            <div className='border-t border-gray-700 py-4 mt-10 text-center text-gray-500'>Copyright © 2026 YourBrand. All rights reserved.</div>
         </div>
     )
 }
