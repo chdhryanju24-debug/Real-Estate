@@ -6,7 +6,7 @@ const Testimonials = () => {
     return (
         <motion.div
             initial={{ opacity: 0, x: 100 }}
-            transition={{ duration: 1 }}
+            transition={{ duration: 1.5 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             className='container mx-auto py-10 lg:px-32 w-full overflow-hidden' id='Testimonials'>
